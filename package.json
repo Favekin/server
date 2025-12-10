@@ -1,7 +1,6 @@
 {
   "name": "digital-mechanic-server",
   "version": "1.0.0",
-  "start":"nodemon server.js",
   "description": "Backend for Digital Mechanic App",
   "main": "server.js",
   "scripts": {
